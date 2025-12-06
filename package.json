@@ -1,0 +1,17 @@
+{
+    "name": "test1",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@modelcontextprotocol/sdk": "^1.23.0",
+        "ws": "^8.18.3",
+        "zod": "^3.25.76"
+    }
+}
